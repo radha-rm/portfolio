@@ -54,6 +54,8 @@ I restructured the smart contracts documentation around four destinations an int
 
 **I worked inside an engineering quality gate.** Changes went through type checking, production builds, and automated browser acceptance tests. When a change touched generated documentation, I updated the source and regenerated rather than hand-editing output.
 
+**I used AI to move faster without lowering the bar.** I built the prototype with Claude as a coding agent, which let me land over 200 commits in eight weeks while every change still had to pass the same type checks, builds, and browser acceptance tests. I also turned that workflow into something others could use, writing a setup guide that lets teammates who don't code run the full prototype by handing a single prompt to an AI assistant.
+
 **I separated what I could decide from what I couldn't.** Repository-level choices I made and recorded. Anything touching legal, compliance, security, or the external API contract went to a named owner with the evidence attached.
 
 ## Architecture
