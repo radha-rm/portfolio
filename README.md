@@ -1,5 +1,4 @@
 # portfolio
-Overview of my process researching, iterating, and shipping code for Wisdomtree's APIs, Docs, and ordering functionality.
 # Shipping developer experience for tokenized funds at WisdomTree
 
 **Radha Ramanathan** · Product Management, WisdomTree Connect · Summer 2026
