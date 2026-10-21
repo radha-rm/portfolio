@@ -2,6 +2,8 @@
 
 **Radha Ramanathan** · Product Management, WisdomTree Connect · Summer 2026
 
+**In short:** I researched, designed, and shipped developer-facing work for WisdomTree Connect's API and docs: a partner integration blueprint, a self-serve sandbox credentials design ([with a code example](examples/sandbox-credentials/)), and a restructured Developer Center. After our team presented it to the Head of Product, the work went to Compliance and Legal for sign-off ahead of launch.
+
 WisdomTree Connect gives institutions and partners API access to WisdomTree's tokenized funds. Over the summer I worked on the developer-facing side of that product: how a partner discovers a fund, understands the API, gets credentials, and builds an ordering flow. I did this as a PM who also shipped code, working directly in a React/TypeScript Developer Center and a Next.js product prototype alongside engineering.
 
 This page walks through the problems I took on, the research behind them, what I built, and how the work changed as I learned. The source code and internal documents stay private to WisdomTree. I'm happy to go deeper on any of this in conversation.
