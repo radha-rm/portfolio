@@ -1,4 +1,3 @@
-# portfolio
 # Shipping developer experience for tokenized funds at WisdomTree
 
 **Radha Ramanathan** · Product Management, WisdomTree Connect · Summer 2026
