@@ -40,6 +40,8 @@ I wrote a design proposal to remove the onboarding dead end, built on one princi
 
 The proposed flow was a short signup, email verification, automatic provisioning of a sandbox-only organization, and auto-issued credentials that match the real authentication contract. Production onboarding stays exactly as gated as before. I prototyped the end-state experience inside the Quickstart so reviewers could click through it, and sent the proposal to API Product, platform engineering, and Security with the specific decisions only they could make: verification bar, rate limits, data retention, and default scopes.
 
+**See the code:** [an illustrative implementation of this design, with tests](examples/sandbox-credentials/), written fresh for this portfolio.
+
 ### 3. Developer Center information architecture
 
 I restructured the smart contracts documentation around four destinations an integrator actually needs (overview, addresses and deployments, reading and transferring onchain, and security and audits) and moved privileged and admin capabilities out of the client integration story. I also produced refreshed artwork for the public discovery pages and the Developer Center overview.
